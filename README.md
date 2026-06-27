@@ -42,6 +42,21 @@ A CNN-based image classification model to predict laptop brands from images.
 
 ---
 
+---
+
+## 🏅 Google AI Badges & Achievements
+
+<p align="left">
+  <a href="https://me.developers.google.com/u/me">
+    <img src="https://img.shields.io/badge/Google%20Developer-Badges%20Earned-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+</p>
+
+* Earned multiple badges from the **Google Developer Program**.
+* Completed hands-on learning activities in **TensorFlow, Image Classification, Object Detection, and AI/ML concepts**.
+* Gained practical exposure to building AI and Machine Learning based solutions using Google Developer resources.
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
