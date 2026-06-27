@@ -42,8 +42,6 @@ A CNN-based image classification model to predict laptop brands from images.
 
 ---
 
----
-
 ## 🏅 Google AI Badges & Achievements
 
 <p align="left">
