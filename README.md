@@ -61,8 +61,7 @@ A CNN-based image classification model to predict laptop brands from images.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/
-komal-sarathe">
+  <a href="https://www.linkedin.com/in/komal-sarathe/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your-komalsarathe5@gmail.com">
